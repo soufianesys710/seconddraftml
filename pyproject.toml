@@ -1,6 +1,6 @@
 [project]
 name = "seconddraftml"
-version = "0.1.0"
+version = "0.1.1"
 description = "Do 50% of your machine learning modeling iterations in 10% of the time. Quickly and insightfully."
 readme = "README.md"
 authors = [
@@ -15,6 +15,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "black>=25.1.0",
     "jupyter>=1.1.1",
     "notebook>=7.4.5",
 ]
