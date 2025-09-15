@@ -1,6 +1,6 @@
 [project]
 name = "seconddraftml"
-version = "0.1.1"
+version = "0.1.2"
 description = "Do 50% of your machine learning modeling iterations in 10% of the time. Quickly and insightfully."
 readme = "README.md"
 authors = [
